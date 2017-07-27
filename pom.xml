@@ -3,7 +3,7 @@
 
     <groupId>com.andyspohn</groupId>
     <artifactId>cfn-deploy-raptor</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
 
     <url>https://github.com/spohnan/cfn-deploy-raptor</url>
     <licenses>
@@ -104,7 +104,7 @@
     <scm>
         <url>https://github.com/spohnan/cfn-deploy-raptor.git</url>
         <connection>scm:git:https://github.com/spohnan/cfn-deploy-raptor.git</connection>
-        <tag>HEAD</tag>
+        <tag>v0.0.1</tag>
     </scm>
 
 </project>
